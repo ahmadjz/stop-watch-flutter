@@ -1,16 +1,12 @@
 # stop_watch_flutter
 
-A new Flutter project.
+A simple stop watch using Flutter for practicing UI building and animations
 
-## Getting Started
+## Screenshots & Videos
 
-This project is a starting point for a Flutter application.
+![Screenshot 2022-10-31 153627](https://user-images.githubusercontent.com/46372418/199021091-8bd271a0-cd0f-473f-b4c8-e35406eeeeca.png)
+![Screenshot 2022-10-31 153707](https://user-images.githubusercontent.com/46372418/199021103-e72491d0-2e69-4c0d-b7cc-879eac09b01f.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/46372418/199021121-71cd7a8b-e9ad-4962-badf-a168783999a5.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
